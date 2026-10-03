@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Crane gantry horizontal beam -->
+    <path
+        android:fillColor="#FFCD00"
+        android:pathData="M24,30 L84,30 L84,36 L24,36 Z" />
+    <!-- Diagonal hazard truss markings -->
+    <path
+        android:fillColor="#0F131B"
+        android:pathData="M32,30 L36,30 L30,36 L26,36 Z M44,30 L48,30 L42,36 L38,36 Z M56,30 L60,30 L54,36 L50,36 Z M68,30 L72,30 L66,36 L62,36 Z M80,30 L84,30 L78,36 L74,36 Z" />
+    <!-- Trolley hoist carriage -->
+    <path
+        android:fillColor="#FFE089"
+        android:pathData="M46,36 L62,36 L60,44 L48,44 Z" />
+    <!-- Cable wires -->
+    <path
+        android:strokeColor="#DFE2ED"
+        android:strokeWidth="1.5"
+        android:pathData="M51,44 L51,58 M57,44 L57,58" />
+    <!-- Pulley Sheave block -->
+    <path
+        android:fillColor="#FFCD00"
+        android:pathData="M48,58 L60,58 L58,66 L50,66 Z" />
+    <!-- Heavy Duty Crane Hook -->
+    <path
+        android:fillColor="#FFCD00"
+        android:pathData="M54,66 C51.5,66 50,68 50,71 C50,75.5 54,78 57.5,78 C61,78 63,75.5 63,73 C63,71.5 62,70.5 60.5,70.5 C59.2,70.5 58.5,71.2 58.5,72.2 C58.5,73.5 57,74.5 55.5,74.5 C53.5,74.5 52.5,73 52.5,71 C52.5,69.5 53.2,68.5 54,68.5 C54.8,68.5 55.5,69.5 55.5,71 L57.5,71 C57.5,68.5 56,66 54,66 Z" />
+    <!-- Triangle Safety Indicator -->
+    <path
+        android:fillColor="#FFCD00"
+        android:pathData="M54,20 L60,28 L48,28 Z" />
+</vector>

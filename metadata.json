@@ -1,0 +1,6 @@
+{
+  "name": "Pontes Rolantes",
+  "description": "App nativo de manutenção preditiva e preventiva de pontes rolantes Caterpillar com gestão de planilhas, histórico de OS e checklist técnico offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
